@@ -1,0 +1,15 @@
+F:\Django and CS\CS\Oop-tamrin\bin\Debug\net7.0\Oop-tamrin.exe
+F:\Django and CS\CS\Oop-tamrin\bin\Debug\net7.0\Oop-tamrin.deps.json
+F:\Django and CS\CS\Oop-tamrin\bin\Debug\net7.0\Oop-tamrin.runtimeconfig.json
+F:\Django and CS\CS\Oop-tamrin\bin\Debug\net7.0\Oop-tamrin.dll
+F:\Django and CS\CS\Oop-tamrin\bin\Debug\net7.0\Oop-tamrin.pdb
+F:\Django and CS\CS\Oop-tamrin\obj\Debug\net7.0\Oop-tamrin.csproj.AssemblyReference.cache
+F:\Django and CS\CS\Oop-tamrin\obj\Debug\net7.0\Oop-tamrin.GeneratedMSBuildEditorConfig.editorconfig
+F:\Django and CS\CS\Oop-tamrin\obj\Debug\net7.0\Oop-tamrin.AssemblyInfoInputs.cache
+F:\Django and CS\CS\Oop-tamrin\obj\Debug\net7.0\Oop-tamrin.AssemblyInfo.cs
+F:\Django and CS\CS\Oop-tamrin\obj\Debug\net7.0\Oop-tamrin.csproj.CoreCompileInputs.cache
+F:\Django and CS\CS\Oop-tamrin\obj\Debug\net7.0\Oop-tamrin.dll
+F:\Django and CS\CS\Oop-tamrin\obj\Debug\net7.0\refint\Oop-tamrin.dll
+F:\Django and CS\CS\Oop-tamrin\obj\Debug\net7.0\Oop-tamrin.pdb
+F:\Django and CS\CS\Oop-tamrin\obj\Debug\net7.0\Oop-tamrin.genruntimeconfig.cache
+F:\Django and CS\CS\Oop-tamrin\obj\Debug\net7.0\ref\Oop-tamrin.dll
