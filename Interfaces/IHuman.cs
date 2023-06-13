@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace Oop_tamrin.Interfaces
 {
-    public interface IHuman : IMob 
+    public interface IHuman : IMob
     {
         
     }

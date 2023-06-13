@@ -1,13 +1,16 @@
 ﻿using Oop_tamrin.Models;
 
-var steve = new Human();
-steve.Name = "Steve";
-var alex = new Human();
-steve.Name = "Alex";
-var child1 = steve.Breed(alex);
-child1.Name = "Mitra";
-var child2 = steve.Breed(alex);
-child2.Name = "Mirak";
-child2.kill(child2);
+var p1 = new Pillager();
+p1.Name = "pil1";
+var p2 = new Pillager();
+p2.Name = "pil2";
+p1.Breed(p2);
+p1.Show();
+p2.Show();
+p1.Hit(p2);
+p2.kill(p1);
+var pig1 = new Piglin();
+pig1.Name = "po";
+p2.kill(pig1);
 
 

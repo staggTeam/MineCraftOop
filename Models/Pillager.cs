@@ -2,11 +2,12 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Oop_tamrin.Interfaces;
 
-namespace Oop_tamrin.Interfaces
+namespace Oop_tamrin.Models
 {
-    public interface IIlager : IMob , IHostile , IHuman
+    public class Pillager : Hostile
     {
-        
+       
     }
 }
